@@ -1,2 +1,1 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Pedroxz63/PedroxzMenuAtualizado/refs/heads/main/pedroxzmenuv.2.0.2.md'))()
-mude o nome e mude a loadristring tire o nome pedroxzMenuatualizado e pedroxz63
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Briessxz63/Briessxzatualizado/refs/heads/main/Briessxz.2.0.2.md'))()
